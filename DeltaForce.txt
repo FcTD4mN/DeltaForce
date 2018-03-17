@@ -1,0 +1,66 @@
+DeltaForce:
+-----------------------------------------
+
+Points d'interêt évoqués à ce jour:
+
+- Structure narrative découpée en phases:
+	- Phase 1:
+		- Narration dirigée, présentation de l'entreprise et des personnages, évènnements scriptés. Dialogues, présentation des différents lieux de jeu.
+		- Liste des lieux évoqués:
+			- Bureaux ( ~250m² )
+			- Monsieur ( 80m² )
+			- Branko ( 80m² )
+			- Tranum ( 80m² )
+			- Oriental Kebab ( 140m² )
+			- Au Bureau ( 200m² )
+			- Appart ( 200m² )
+			- Rue: Trajet Dirigé Gare - Bureaux ( occasionel )
+			- Appartement ( 30m² )
+			- Inria
+			- Gobelins
+		- Présentation du framework virtuel
+			- Architecture Serveur
+			- Zone Git  Commit zone
+			- Zone Scanner / TMP
+			- Zone Serveur Perso
+			- Zone Root protégée
+			- Zone Code Source
+			- Zone File Explorer
+			- Zone mail
+			- Zone forum
+			- Zone NSFW ( internet, E.'s files )
+			- Notion d'interaction dans le monde virtuel:
+				- Ennemis:
+					- Spyware
+					- Firewall
+					- Zone protégée
+					- Antivirus
+					- ...
+				- Amis:
+					- Personnages présents aussi virtuellement
+					- Echange d'information & dialogues dans le contexte virtuel
+					- Forum etc
+					- ...
+		- Vie plus ou moins scriptée, crédibilité des protagonnistes et PNJ
+		- Sensation de cohérence et réalisme apportée par les bruitages divers ( bruits de pas )
+		- Bonus: Prout toilettes
+		- Exemples: Machine à café, lavabo, sèche main, toux.
+		- Git modélisé comme point d'interêt à part entière, source de dialogues et interactions diverses
+		- Liens de confiance avec certains pnj ( eric 2 ) = il nous dit quand quelqu'un arrive dans le bureau
+			Du coup, on se simplifie la vie pour la phase 1, MAIS, phase 2 il n'est plus la -> Sentiment d'insécurité qui revient.
+	- Phase 2:
+		- Rupture narrative: changement de gérance
+		- Contrôle intensifié
+		- Réduction du nombre de personnages
+		- Réduction de la liberté d'action dans la réalité
+		- Augmentation des possibilités dans le monde virtuel
+		- Ennemis: Spyware, Firewall
+		- Sentinelles verification du travail dans la réalité
+		- Recherche d'information ( Hacking virtuel, Infiltration Réelle )
+		- Mécaniques temporelles type: Partir le dernier, rester le soir, rester à midi.
+		- Dialogues toujours disponibles, certains uniquement depuis Appartement
+		- Interactions à midi: certains personnages ne livrent des informations qu'à cette occasion
+		- Découverte d'information
+	- Phase 3:
+		- Conclusion
+		- Monde virtuel Gangréné, euthanasié, éteint, tout le monde remballe
