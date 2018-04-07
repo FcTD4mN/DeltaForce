@@ -19,6 +19,8 @@ Points d'interêt évoqués à ce jour:
 			- Inria
 			- Gobelins
 		- Présentation du framework virtuel
+			- Déplacements rapides, agiles, faciles --> Avoir une sorte de jet pack qui permet un déplacement
+				à l'image d'un just cause 2 avec le grapin
 			- Architecture Serveur
 			- Zone Git  Commit zone
 			- Zone Scanner / TMP
